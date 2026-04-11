@@ -1,0 +1,2 @@
+Sionna folder:
+/home/erasmus/miniconda3/envs/sionna_1_2_0/lib/python3.11/site-packages/sionna/rt/
